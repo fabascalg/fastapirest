@@ -1,22 +1,22 @@
 # fastrestapi
 
-_Small protoboard with a REST API based on JSON-Server
+Small protoboard with a REST API based on JSON-Server
 
 ## starting
 
-_Visualize how easy it is to mount a REST service with node's JSON-Server module. The idea was born when reading the following article:
+Visualize how easy it is to mount a REST service with node's JSON-Server module. The idea was born when reading the following article:
 
 * <https://medium.com/edgar-talledos/crea-un-api-rest-en-menos-de-30-segundos-con-json-server-406ffd08151d.>
 
 ### Code
 
-_Applying step by step what is proposed in this tutorial:  
+Applying step by step what is proposed in this tutorial:  
 
 * <https://zetcode.com/javascript/jsonserver/>  
 
 #### How to do it?
 
-_In a new forlder, open the VSC and install the JSON Server module for Node.
+In a new forlder, open the VSC and install the JSON Server module for Node.
 
 If you do everything from scratch, the following ordered instructions as shown, are important for it to work!_ 
 
@@ -25,7 +25,7 @@ npm init -y
 npm i -g json-server
 ```
 
-_Now we install the AXIOS module. An http client that processes promises in requests to the server.
+Now we install the AXIOS module. An http client that processes promises in requests to the server.
 
 ```text
 npm install axios
