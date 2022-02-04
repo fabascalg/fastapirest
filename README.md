@@ -33,7 +33,6 @@ npm install axios
 
 The file package.json have the configuration for used this module.
 The file users.json, have data for the practices. Note what the file name of data it’s same what in the command start server it’s put how a parameter.
-Para ponerlo en marcha, desde la terminal de VSC escriba: 
 To start it, from the VSC terminal, type:
 
 ```text
