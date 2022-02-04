@@ -1,0 +1,9 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "crea una api rest con json-server en menos de 30 segundos",
+        "content": "Donec neque quam, dignissim in, mollis nec, sagittis eu, wisi."
+      }
+    ]
+  }
