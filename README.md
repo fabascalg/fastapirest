@@ -1,4 +1,4 @@
-git # fastrestapì
+git # fastrestapi
 
 _Small protoboard with a REST API based on JSON-Server
 
